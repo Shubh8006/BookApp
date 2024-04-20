@@ -1,0 +1,90 @@
+[
+    {
+        "Id":1,
+        "Name": "Story Book",
+        "Title": "Unveiling Venus: Secrets the Universe Never Told You",
+        "Price": 0,
+        "Category": "Free",
+        "Image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?w=740"
+    },
+    {
+        "Id":2,
+        "Name": "Story Book",
+        "Title": "Unveiling Venus: Secrets the Universe Never Told You",
+        "Price": 0,
+        "Category": "Entertainment",
+        "Image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?w=740"
+    },
+    {
+        "Id":3,
+        "Name": "Story Book",
+        "Title": "Unveiling Venus: Secrets the Universe Never Told You",
+        "Price": 0,
+        "Category": "Adventure",
+        "Image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?w=740"
+    },
+    {
+        "Id":4,
+        "Name": "Story Book",
+        "Title": "Unveiling Venus: Secrets the Universe Never Told You",
+        "Price": 0,
+        "Category": "Thriller",
+        "Image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?w=740"
+    },
+    {
+        "Id":5,
+        "Name": "Story Book",
+        "Title": "Unveiling Venus: Secrets the Universe Never Told You",
+        "Price": 0,
+        "Category": "Free",
+        "Image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?w=740"
+    },
+    {
+        "Id":6,
+        "Name": "Story Book",
+        "Title": "Unveiling Venus: Secrets the Universe Never Told You",
+        "Price": 0,
+        "Category": "Free",
+        "Image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?w=740"
+    },
+    {
+        "Id":7,
+        "Name": "Story Book",
+        "Title": "Unveiling Venus: Secrets the Universe Never Told You",
+        "Price": 0,
+        "Category": "Free",
+        "Image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?w=740"
+    },
+    {
+        "Id":8,
+        "Name": "Story Book",
+        "Title": "Unveiling Venus: Secrets the Universe Never Told You",
+        "Price": 0,
+        "Category": "Free",
+        "Image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?w=740"
+    },
+    {
+        "Id":9,
+        "Name": "Story Book",
+        "Title": "Unveiling Venus: Secrets the Universe Never Told You",
+        "Price": 0,
+        "Category": "Free",
+        "Image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?w=740"
+    },
+    {
+        "Id":10,
+        "Name": "Story Book",
+        "Title": "Unveiling Venus: Secrets the Universe Never Told You",
+        "Price": 0,
+        "Category": "Premium",
+        "Image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?w=740"
+    },
+    {
+        "Id":11,
+        "Name": "Story Book",
+        "Title": "Unveiling Venus: Secrets the Universe Never Told You",
+        "Price": 0,
+        "Category": "Free",
+        "Image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?w=740"
+    }
+]
